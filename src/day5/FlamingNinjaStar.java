@@ -17,7 +17,7 @@ public class FlamingNinjaStar {
 		// *15. Make some adjustments to see what other kinds of shapes you can make.
 
 		// 1. Make a new robot, and set it's pen down.
-
+Robot r2d2 = new Robot("mini");
 		// 12. Set the robot speed to 10
 
 		// 13. Make all the code below repeat 25 times
@@ -25,10 +25,11 @@ public class FlamingNinjaStar {
 			// 2. Turn the robot 1/8 of a circle
 		
 			// 3. Move the robot 64 pixels
+r2d2.move(64);
 
 			
 			// 4. Turn the robot 40 degrees to the LEFT. (Negative numbers will turn the robot counter-clockwise.)
-			
+			r2d2.
 			// 5. Move the robot the distance in the variable flameSize
 			
 			// 6. Turn the robot 170 degrees
